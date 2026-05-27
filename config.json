@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdpdate",
+        "uuid": 13525590,
+        "checksum": "xgsvt"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
